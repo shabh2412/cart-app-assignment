@@ -49,7 +49,7 @@ function CartContainer () {
   // event handlers
   return (
     <div className="row my-2">
-      <div className="col-12 col-sm-12 col-md-4 col-lg-4 mx-auto border border-danger">
+      <div className="col-12 col-sm-12 col-md-6 col-lg-4 mx-auto border border-danger">
         {/* 
           Body
         */}
