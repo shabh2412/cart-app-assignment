@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cart-app-assignment/static/css/main.ff79ec8e.css",
-    "main.js": "/cart-app-assignment/static/js/main.83a2b775.js",
+    "main.js": "/cart-app-assignment/static/js/main.c883b956.js",
     "static/js/787.e977ccef.chunk.js": "/cart-app-assignment/static/js/787.e977ccef.chunk.js",
     "index.html": "/cart-app-assignment/index.html",
     "main.ff79ec8e.css.map": "/cart-app-assignment/static/css/main.ff79ec8e.css.map",
-    "main.83a2b775.js.map": "/cart-app-assignment/static/js/main.83a2b775.js.map",
+    "main.c883b956.js.map": "/cart-app-assignment/static/js/main.c883b956.js.map",
     "787.e977ccef.chunk.js.map": "/cart-app-assignment/static/js/787.e977ccef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff79ec8e.css",
-    "static/js/main.83a2b775.js"
+    "static/js/main.c883b956.js"
   ]
 }
