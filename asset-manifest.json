@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cart%20app%20assignment/static/css/main.ff79ec8e.css",
+    "main.js": "/cart%20app%20assignment/static/js/main.8438aeda.js",
+    "static/js/787.e977ccef.chunk.js": "/cart%20app%20assignment/static/js/787.e977ccef.chunk.js",
+    "index.html": "/cart%20app%20assignment/index.html",
+    "main.ff79ec8e.css.map": "/cart%20app%20assignment/static/css/main.ff79ec8e.css.map",
+    "main.8438aeda.js.map": "/cart%20app%20assignment/static/js/main.8438aeda.js.map",
+    "787.e977ccef.chunk.js.map": "/cart%20app%20assignment/static/js/787.e977ccef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff79ec8e.css",
+    "static/js/main.8438aeda.js"
+  ]
+}
