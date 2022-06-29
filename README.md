@@ -1,6 +1,26 @@
-# Todo List App
+# Cart App
 
+# Screenshots
+![initial state](./imagesForReadme/SS1.png)
+![adding items](./imagesForReadme/SS2.png)
+![adding items](./imagesForReadme/SS3.png)
 
+## Responsiveness
+
+### Tablet Devices
+
+![tablet](./imagesForReadme/iPad_SS.png)
+
+### Mobile Devices
+![mobile](./imagesForReadme/IPHONE_SS1.png)
+
+# Component Chart
+
+![component-chart](./imagesForReadme/componentChart.jpg)
+
+# Component Tree
+
+![component-Tree](./imagesForReadme/componentTree.jpg)
 
 # Getting Started with Create React App
 
